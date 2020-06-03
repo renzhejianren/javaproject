@@ -1,2 +1,3 @@
-The current project visualized the global earthquakes data.
+The current project visualized the global earthquakes data
+.
 
